@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: a80db25c5e498614282d7e855d383d66
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - blueArrow: {fileID: 24550114, guid: beea20ac40df6d945a6d342aaec78a6c, type: 3}
+  - greenArrow: {fileID: -138190226, guid: beea20ac40df6d945a6d342aaec78a6c, type: 3}
+  - yellowDoubleArrow: {fileID: 946469781, guid: beea20ac40df6d945a6d342aaec78a6c,
+      type: 3}
+  - redArrow: {fileID: 774150756, guid: beea20ac40df6d945a6d342aaec78a6c, type: 3}
+  - pinkArrow: {fileID: 832305091, guid: beea20ac40df6d945a6d342aaec78a6c, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
